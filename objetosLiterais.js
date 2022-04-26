@@ -1,0 +1,1 @@
+//objeto literal tem que estar entre {}
